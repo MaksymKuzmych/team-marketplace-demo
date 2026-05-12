@@ -26,3 +26,12 @@ SemVer too, recorded in `docs/CHANGELOG.md`.
 ```
 /plugin marketplace add github:your-org/team-marketplace
 ```
+
+## Approval policy
+
+Every plugin has a named maintainer-approver. Add the approver to the PR
+description before requesting review:
+
+- `deploy-checklist` → @platform-team
+- `pr-review-rules` → @platform-team
+- `security-scan` → @acme/security-team
