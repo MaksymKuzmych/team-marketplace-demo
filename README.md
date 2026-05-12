@@ -33,7 +33,7 @@ To pin the marketplace at the project level (so every contributor in this repo g
 
 ## Update flow
 
-- Maintainers cut a release with `claude plugin tag` after merging to `main`.
+- Maintainers cut a release with `claude plugin release` after merging to `main`.
 - Consumers pull the latest with:
 
 ```
