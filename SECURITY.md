@@ -25,3 +25,10 @@ Plugins execute with the same privileges as the user running Claude Code. They c
 ## Reporting a Vulnerability
 
 Email `security@your-org.example` with a description and reproduction steps. Do not open a public issue. Expect acknowledgment within two business days.
+
+## Maintainer rotation
+
+The platform team rotates marketplace maintainers quarterly. The current
+maintainer list is published in the team handbook and mirrored in each
+plugin's CODEOWNERS file. Rotation does not invalidate approvals on
+in-flight PRs.
