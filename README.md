@@ -2,6 +2,8 @@
 
 A private Claude Code plugin marketplace for a 50-engineer team. Ships three reference plugins (`deploy-checklist`, `pr-review-rules`, `security-scan`) that standardize how the team deploys services, reviews pull requests, and scans branches for security issues before push. Use this repo as the single source of truth for shared Claude Code automation.
 
+Fork for course homework 5.6: a one-line change that triggers the validate-plugins workflow.
+
 ## Subscribe
 
 Add this marketplace to your Claude Code instance:
